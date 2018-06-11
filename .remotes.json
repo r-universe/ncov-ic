@@ -1,5 +1,12 @@
 [
   {
+    "package": "coarseDataTools",
+    "url": "https://github.com/nickreich/coarseDataTools",
+    "via": ["EpiEstim"],
+    "branch": "hackout3",
+    "from": "EpiEstim"
+  },
+  {
     "package": "dde",
     "url": "https://github.com/mrc-ide/dde",
     "via": ["squire"],
@@ -40,6 +47,12 @@
     "url": "https://github.com/mrc-ide/dust",
     "via": ["sircovid", "mcstate", "odin.dust"],
     "from": "sircovid"
+  },
+  {
+    "package": "incidence",
+    "url": "https://github.com/reconhub/incidence",
+    "via": ["EpiEstim"],
+    "from": "EpiEstim"
   },
   {
     "package": "mcstate",

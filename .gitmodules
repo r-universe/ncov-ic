@@ -98,3 +98,13 @@
 	url = https://github.com/mrc-ide/mcstate
 	shallow = true
 	branch = master
+[submodule "coarseDataTools"]
+	path = coarseDataTools
+	url = https://github.com/nickreich/coarseDataTools
+	shallow = true
+	branch = hackout3
+[submodule "incidence"]
+	path = incidence
+	url = https://github.com/reconhub/incidence
+	shallow = true
+	branch = HEAD
