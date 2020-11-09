@@ -8,6 +8,12 @@
   {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
+    "via": ["odin.dust"],
+    "from": "odin.dust"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
     "via": ["sircovid"],
     "from": "sircovid"
   },
