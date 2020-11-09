@@ -1,5 +1,11 @@
 [
   {
+    "package": "dde",
+    "url": "https://github.com/mrc-ide/dde",
+    "via": ["squire"],
+    "from": "squire"
+  },
+  {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
     "via": ["sircovid"],
@@ -24,10 +30,22 @@
     "from": "sircovid"
   },
   {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["squire"],
+    "from": "squire"
+  },
+  {
     "package": "odin.dust",
     "url": "https://github.com/mrc-ide/odin.dust",
     "via": ["sircovid", "mcstate"],
     "from": "sircovid"
+  },
+  {
+    "package": "odin.js",
+    "url": "https://github.com/mrc-ide/odin.js",
+    "via": ["squire"],
+    "from": "squire"
   },
   {
     "package": "vaultr",
