@@ -1,3 +1,100 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ncov-ic/universe
+	shallow = true
+	branch = HEAD
+[submodule "orderly"]
+	path = orderly
+	url = https://github.com/vimc/orderly
+	shallow = true
+	branch = master
+[submodule "vaultr"]
+	path = vaultr
+	url = https://github.com/vimc/vaultr
+	shallow = true
+	branch = master
+[submodule "orderlyweb"]
+	path = orderlyweb
+	url = https://github.com/vimc/orderlyweb
+	shallow = true
+	branch = master
+[submodule "orderly.rstudio"]
+	path = orderly.rstudio
+	url = https://github.com/vimc/orderly.rstudio
+	shallow = true
+	branch = master
+[submodule "orderly.sharepoint"]
+	path = orderly.sharepoint
+	url = https://github.com/vimc/orderly.sharepoint
+	shallow = true
+	branch = master
+[submodule "projections"]
+	path = projections
+	url = https://github.com/reconhub/projections
+	shallow = true
+	branch = release
+[submodule "EpiEstim"]
+	path = EpiEstim
+	url = https://github.com/mrc-ide/EpiEstim
+	shallow = true
+	branch = release
+[submodule "sircovid"]
+	path = sircovid
+	url = https://github.com/mrc-ide/sircovid
+	shallow = true
+	branch = master
+[submodule "dde"]
+	path = dde
+	url = https://github.com/mrc-ide/dde
+	shallow = true
+	branch = master
+[submodule "squire"]
+	path = squire
+	url = https://github.com/mrc-ide/squire
+	shallow = true
+	branch = master
+[submodule "odin.js"]
+	path = odin.js
+	url = https://github.com/mrc-ide/odin.js
+	shallow = true
+	branch = master
+[submodule "odin"]
+	path = odin
+	url = https://github.com/mrc-ide/odin
+	shallow = true
+	branch = master
+[submodule "spud"]
+	path = spud
+	url = https://github.com/reside-ic/spud
+	shallow = true
+	branch = master
+[submodule "fstorr"]
+	path = fstorr
+	url = https://github.com/reside-ic/fstorr
+	shallow = true
+	branch = master
+[submodule "hermione"]
+	path = hermione
+	url = https://github.com/mrc-ide/hermione
+	shallow = true
+	branch = master
+[submodule "epidemia"]
+	path = epidemia
+	url = https://github.com/ImperialCollegeLondon/epidemia
+	shallow = true
+	branch = 6e5c800
+[submodule "dust"]
+	path = dust
+	url = https://github.com/mrc-ide/dust
+	shallow = true
+	branch = master
+[submodule "odin.dust"]
+	path = odin.dust
+	url = https://github.com/mrc-ide/odin.dust
+	shallow = true
+	branch = master
+[submodule "mcstate"]
+	path = mcstate
+	url = https://github.com/mrc-ide/mcstate
+	shallow = true
+	branch = master
