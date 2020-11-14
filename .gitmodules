@@ -2,6 +2,7 @@
 	path = .registry
 	url = https://github.com/ncov-ic/universe
 	shallow = true
+	branch = HEAD
 [submodule "orderly"]
 	path = orderly
 	url = https://github.com/vimc/orderly
