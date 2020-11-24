@@ -55,10 +55,22 @@
     "from": "EpiEstim"
   },
   {
+    "package": "jsonvalidate",
+    "url": "https://github.com/ropensci/jsonvalidate",
+    "via": ["odin.js"],
+    "from": "odin.js"
+  },
+  {
     "package": "mcstate",
     "url": "https://github.com/mrc-ide/mcstate",
     "via": ["sircovid"],
     "from": "sircovid"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["odin.js"],
+    "from": "odin.js"
   },
   {
     "package": "odin",
