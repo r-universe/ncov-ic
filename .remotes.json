@@ -61,6 +61,12 @@
     "from": "odin.js"
   },
   {
+    "package": "jsonvalidate",
+    "url": "https://github.com/ropensci/jsonvalidate",
+    "via": ["squire", "odin.js"],
+    "from": "squire"
+  },
+  {
     "package": "mcstate",
     "url": "https://github.com/mrc-ide/mcstate",
     "via": ["sircovid"],
@@ -76,6 +82,12 @@
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
     "via": ["squire"],
+    "from": "squire"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["squire", "odin.js"],
     "from": "squire"
   },
   {
