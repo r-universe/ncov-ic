@@ -75,6 +75,12 @@
   {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
+    "via": ["odin.dust"],
+    "from": "odin.dust"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
     "via": ["odin.js"],
     "from": "odin.js"
   },
