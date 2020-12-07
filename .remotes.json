@@ -115,9 +115,21 @@
     "from": "squire"
   },
   {
+    "package": "orderly",
+    "url": "https://github.com/vimc/orderly",
+    "via": ["orderlyweb"],
+    "from": "orderlyweb"
+  },
+  {
     "package": "vaultr",
     "url": "https://github.com/vimc/vaultr",
     "via": ["orderly"],
     "from": "orderly"
+  },
+  {
+    "package": "vaultr",
+    "url": "https://github.com/vimc/vaultr",
+    "via": ["orderlyweb", "orderly"],
+    "from": "orderlyweb"
   }
 ]
