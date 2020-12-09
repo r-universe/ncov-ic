@@ -87,6 +87,12 @@
   {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
+    "via": ["sircovid", "mcstate", "odin.dust"],
+    "from": "sircovid"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
     "via": ["squire"],
     "from": "squire"
   },
