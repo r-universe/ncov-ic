@@ -103,6 +103,10 @@
 	url = https://github.com/nickreich/coarseDataTools
 	shallow = true
 	branch = hackout3
+[submodule "eigen1"]
+	path = eigen1
+	url = https://github.com/mrc-ide/eigen1
+	shallow = true
 [submodule "incidence"]
 	path = incidence
 	url = https://github.com/reconhub/incidence

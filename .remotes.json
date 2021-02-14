@@ -49,6 +49,12 @@
     "from": "sircovid"
   },
   {
+    "package": "eigen1",
+    "url": "https://github.com/mrc-ide/eigen1",
+    "via": ["sircovid"],
+    "from": "sircovid"
+  },
+  {
     "package": "incidence",
     "url": "https://github.com/reconhub/incidence",
     "via": ["EpiEstim"],
