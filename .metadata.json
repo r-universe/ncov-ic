@@ -1,0 +1,78 @@
+[
+  {
+    "package": "orderly",
+    "oncran": true
+  },
+  {
+    "package": "vaultr",
+    "oncran": true
+  },
+  {
+    "package": "orderlyweb",
+    "oncran": false
+  },
+  {
+    "package": "orderly.rstudio",
+    "oncran": false
+  },
+  {
+    "package": "orderly.sharepoint",
+    "oncran": false
+  },
+  {
+    "package": "projections",
+    "oncran": true
+  },
+  {
+    "package": "EpiEstim",
+    "oncran": true
+  },
+  {
+    "package": "sircovid",
+    "oncran": false
+  },
+  {
+    "package": "dde",
+    "oncran": true
+  },
+  {
+    "package": "squire",
+    "oncran": false
+  },
+  {
+    "package": "odin.js",
+    "oncran": false
+  },
+  {
+    "package": "odin",
+    "oncran": true
+  },
+  {
+    "package": "spud",
+    "oncran": false
+  },
+  {
+    "package": "fstorr",
+    "oncran": false
+  },
+  {
+    "package": "hermione",
+    "oncran": false
+  },
+  {
+    "package": "epidemia",
+    "oncran": false
+  },
+  {
+    "package": "dust",
+    "oncran": false
+  },
+  {
+    "package": "odin.dust",
+    "oncran": false
+  },
+  {
+    "package": "mcstate",
+    "oncran": false
+  }
+]
