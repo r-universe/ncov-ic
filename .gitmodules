@@ -9,132 +9,155 @@
 	shallow = true
 	branch = master
 	registered = true
+	oncran = true
 [submodule "vaultr"]
 	path = vaultr
 	url = https://github.com/vimc/vaultr
 	shallow = true
 	branch = master
 	registered = true
+	oncran = true
 [submodule "orderlyweb"]
 	path = orderlyweb
 	url = https://github.com/vimc/orderlyweb
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "orderly.rstudio"]
 	path = orderly.rstudio
 	url = https://github.com/vimc/orderly.rstudio
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "orderly.sharepoint"]
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "projections"]
 	path = projections
 	url = https://github.com/reconhub/projections
 	shallow = true
 	branch = release
 	registered = true
+	oncran = true
 [submodule "EpiEstim"]
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
 	shallow = true
 	branch = release
 	registered = true
+	oncran = true
 [submodule "sircovid"]
 	path = sircovid
 	url = https://github.com/mrc-ide/sircovid
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "dde"]
 	path = dde
 	url = https://github.com/mrc-ide/dde
 	shallow = true
 	branch = master
 	registered = true
+	oncran = true
 [submodule "squire"]
 	path = squire
 	url = https://github.com/mrc-ide/squire
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "odin.js"]
 	path = odin.js
 	url = https://github.com/mrc-ide/odin.js
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "odin"]
 	path = odin
 	url = https://github.com/mrc-ide/odin
 	shallow = true
 	branch = master
 	registered = true
+	oncran = true
 [submodule "spud"]
 	path = spud
 	url = https://github.com/reside-ic/spud
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "fstorr"]
 	path = fstorr
 	url = https://github.com/reside-ic/fstorr
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "hermione"]
 	path = hermione
 	url = https://github.com/mrc-ide/hermione
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "epidemia"]
 	path = epidemia
 	url = https://github.com/ImperialCollegeLondon/epidemia
 	shallow = true
 	branch = 6e5c800
 	registered = true
+	oncran = false
 [submodule "dust"]
 	path = dust
 	url = https://github.com/mrc-ide/dust
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "odin.dust"]
 	path = odin.dust
 	url = https://github.com/mrc-ide/odin.dust
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "mcstate"]
 	path = mcstate
 	url = https://github.com/mrc-ide/mcstate
 	shallow = true
 	branch = master
 	registered = true
+	oncran = false
 [submodule "coarseDataTools"]
 	path = coarseDataTools
 	url = https://github.com/nickreich/coarseDataTools
 	shallow = true
 	branch = hackout3
 	registered = false
+	oncran = false
 [submodule "eigen1"]
 	path = eigen1
 	url = https://github.com/mrc-ide/eigen1
 	shallow = true
 	registered = false
+	oncran = false
 [submodule "incidence"]
 	path = incidence
 	url = https://github.com/reconhub/incidence
 	shallow = true
 	registered = false
+	oncran = true
 [submodule "jsonvalidate"]
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
 	shallow = true
 	registered = false
+	oncran = true
