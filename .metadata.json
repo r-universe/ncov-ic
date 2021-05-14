@@ -8,16 +8,13 @@
     "oncran": true
   },
   {
-    "package": "orderlyweb",
-    "oncran": false
+    "package": "orderlyweb"
   },
   {
-    "package": "orderly.rstudio",
-    "oncran": false
+    "package": "orderly.rstudio"
   },
   {
-    "package": "orderly.sharepoint",
-    "oncran": false
+    "package": "orderly.sharepoint"
   },
   {
     "package": "projections",
@@ -28,51 +25,41 @@
     "oncran": true
   },
   {
-    "package": "sircovid",
-    "oncran": false
+    "package": "sircovid"
   },
   {
     "package": "dde",
     "oncran": true
   },
   {
-    "package": "squire",
-    "oncran": false
+    "package": "squire"
   },
   {
-    "package": "odin.js",
-    "oncran": false
+    "package": "odin.js"
   },
   {
     "package": "odin",
     "oncran": true
   },
   {
-    "package": "spud",
-    "oncran": false
+    "package": "spud"
   },
   {
-    "package": "fstorr",
-    "oncran": false
+    "package": "fstorr"
   },
   {
-    "package": "hermione",
-    "oncran": false
+    "package": "hermione"
   },
   {
-    "package": "epidemia",
-    "oncran": false
+    "package": "epidemia"
   },
   {
-    "package": "dust",
-    "oncran": false
+    "package": "dust"
   },
   {
-    "package": "odin.dust",
-    "oncran": false
+    "package": "odin.dust"
   },
   {
-    "package": "mcstate",
-    "oncran": false
+    "package": "mcstate"
   }
 ]
