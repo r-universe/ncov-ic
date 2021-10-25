@@ -51,7 +51,8 @@
     "package": "hermione"
   },
   {
-    "package": "epidemia"
+    "package": "epidemia",
+    "oncran": false
   },
   {
     "package": "dust"
