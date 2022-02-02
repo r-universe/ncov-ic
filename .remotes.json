@@ -13,6 +13,12 @@
     "from": "squire"
   },
   {
+    "package": "drjacoby",
+    "url": "https://github.com/mrc-ide/drjacoby",
+    "via": ["squire"],
+    "from": "squire"
+  },
+  {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
     "via": ["mcstate"],

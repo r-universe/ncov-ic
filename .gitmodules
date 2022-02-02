@@ -123,6 +123,11 @@
 	shallow = true
 	branch = hackout3
 	registered = false
+[submodule "drjacoby"]
+	path = drjacoby
+	url = https://github.com/mrc-ide/drjacoby
+	shallow = true
+	registered = false
 [submodule "eigen1"]
 	path = eigen1
 	url = https://github.com/mrc-ide/eigen1
