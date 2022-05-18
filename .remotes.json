@@ -47,6 +47,7 @@
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
     "via": ["sircovid", "mcstate"],
+    "branch": "mrc-3157",
     "from": "sircovid"
   },
   {
