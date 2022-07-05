@@ -22,7 +22,6 @@
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
     "via": ["mcstate"],
-    "branch": "mrc-3157",
     "from": "mcstate"
   },
   {
