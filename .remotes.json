@@ -85,10 +85,76 @@
     "from": "sircovid"
   },
   {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot"],
+    "from": "spimalot"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot", "mcstate"],
+    "from": "spimalot"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot", "mcstate", "odin.dust"],
+    "from": "spimalot"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot", "mcstate", "odin.dust", "mode"],
+    "from": "spimalot"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot", "sircovid"],
+    "from": "spimalot"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot", "sircovid", "mcstate"],
+    "from": "spimalot"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot", "sircovid", "mcstate", "odin.dust"],
+    "from": "spimalot"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot", "sircovid", "mcstate", "odin.dust", "mode"],
+    "from": "spimalot"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot", "sircovid", "odin.dust"],
+    "from": "spimalot"
+  },
+  {
+    "package": "dust",
+    "url": "https://github.com/mrc-ide/dust",
+    "via": ["spimalot", "sircovid", "odin.dust", "mode"],
+    "from": "spimalot"
+  },
+  {
     "package": "eigen1",
     "url": "https://github.com/mrc-ide/eigen1",
     "via": ["sircovid"],
     "from": "sircovid"
+  },
+  {
+    "package": "eigen1",
+    "url": "https://github.com/mrc-ide/eigen1",
+    "via": ["spimalot", "sircovid"],
+    "from": "spimalot"
   },
   {
     "package": "incidence",
@@ -115,6 +181,18 @@
     "from": "sircovid"
   },
   {
+    "package": "mcstate",
+    "url": "https://github.com/mrc-ide/mcstate",
+    "via": ["spimalot"],
+    "from": "spimalot"
+  },
+  {
+    "package": "mcstate",
+    "url": "https://github.com/mrc-ide/mcstate",
+    "via": ["spimalot", "sircovid"],
+    "from": "spimalot"
+  },
+  {
     "package": "mode",
     "url": "https://github.com/mrc-ide/mode",
     "via": ["mcstate", "odin.dust"],
@@ -137,6 +215,24 @@
     "url": "https://github.com/mrc-ide/mode",
     "via": ["sircovid", "odin.dust"],
     "from": "sircovid"
+  },
+  {
+    "package": "mode",
+    "url": "https://github.com/mrc-ide/mode",
+    "via": ["spimalot", "mcstate", "odin.dust"],
+    "from": "spimalot"
+  },
+  {
+    "package": "mode",
+    "url": "https://github.com/mrc-ide/mode",
+    "via": ["spimalot", "sircovid", "mcstate", "odin.dust"],
+    "from": "spimalot"
+  },
+  {
+    "package": "mode",
+    "url": "https://github.com/mrc-ide/mode",
+    "via": ["spimalot", "sircovid", "odin.dust"],
+    "from": "spimalot"
   },
   {
     "package": "odin",
@@ -173,6 +269,30 @@
     "url": "https://github.com/mrc-ide/odin",
     "via": ["sircovid", "odin.dust"],
     "from": "sircovid"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["spimalot", "mcstate", "odin.dust"],
+    "from": "spimalot"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["spimalot", "sircovid", "mcstate", "odin.dust"],
+    "from": "spimalot"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["spimalot", "sircovid"],
+    "from": "spimalot"
+  },
+  {
+    "package": "odin",
+    "url": "https://github.com/mrc-ide/odin",
+    "via": ["spimalot", "sircovid", "odin.dust"],
+    "from": "spimalot"
   },
   {
     "package": "odin",
@@ -205,6 +325,24 @@
     "from": "sircovid"
   },
   {
+    "package": "odin.dust",
+    "url": "https://github.com/mrc-ide/odin.dust",
+    "via": ["spimalot", "mcstate"],
+    "from": "spimalot"
+  },
+  {
+    "package": "odin.dust",
+    "url": "https://github.com/mrc-ide/odin.dust",
+    "via": ["spimalot", "sircovid", "mcstate"],
+    "from": "spimalot"
+  },
+  {
+    "package": "odin.dust",
+    "url": "https://github.com/mrc-ide/odin.dust",
+    "via": ["spimalot", "sircovid"],
+    "from": "spimalot"
+  },
+  {
     "package": "odin.js",
     "url": "https://github.com/mrc-ide/odin.js",
     "via": ["squire"],
@@ -221,6 +359,18 @@
     "url": "https://github.com/vimc/orderly",
     "via": ["orderlyweb"],
     "from": "orderlyweb"
+  },
+  {
+    "package": "rrq",
+    "url": "https://github.com/mrc-ide/rrq",
+    "via": ["spimalot"],
+    "from": "spimalot"
+  },
+  {
+    "package": "sircovid",
+    "url": "https://github.com/mrc-ide/sircovid",
+    "via": ["spimalot"],
+    "from": "spimalot"
   },
   {
     "package": "spud",

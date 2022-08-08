@@ -161,3 +161,8 @@
 	url = https://github.com/mrc-ide/mode
 	shallow = true
 	registered = false
+[submodule "rrq"]
+	path = rrq
+	url = https://github.com/mrc-ide/rrq
+	shallow = true
+	registered = false
