@@ -117,16 +117,29 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "spimalot"]
+	path = spimalot
+	url = https://github.com/mrc-ide/spimalot
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pika"]
+	path = pika
+	url = https://github.com/mrc-ide/pika
+	shallow = true
+	branch = master
+	registered = true
+[submodule "drjacoby"]
+	path = drjacoby
+	url = https://github.com/mrc-ide/drjacoby
+	shallow = true
+	branch = master
+	registered = true
 [submodule "coarseDataTools"]
 	path = coarseDataTools
 	url = https://github.com/nickreich/coarseDataTools
 	shallow = true
 	branch = hackout3
-	registered = false
-[submodule "drjacoby"]
-	path = drjacoby
-	url = https://github.com/mrc-ide/drjacoby
-	shallow = true
 	registered = false
 [submodule "eigen1"]
 	path = eigen1

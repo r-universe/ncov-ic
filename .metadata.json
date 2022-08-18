@@ -62,5 +62,14 @@
   },
   {
     "package": "mcstate"
+  },
+  {
+    "package": "spimalot"
+  },
+  {
+    "package": "pika"
+  },
+  {
+    "package": "drjacoby"
   }
 ]
