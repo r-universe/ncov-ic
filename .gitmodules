@@ -121,7 +121,7 @@
 	path = spimalot
 	url = https://github.com/mrc-ide/spimalot
 	shallow = true
-	branch = master
+	branch = main
 	registered = true
 [submodule "pika"]
 	path = pika
