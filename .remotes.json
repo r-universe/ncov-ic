@@ -13,6 +13,12 @@
     "from": "squire"
   },
   {
+    "package": "distr6",
+    "url": "https://github.com/alan-turing-institute/distr6",
+    "via": ["spimalot"],
+    "from": "spimalot"
+  },
+  {
     "package": "drjacoby",
     "url": "https://github.com/mrc-ide/drjacoby",
     "via": ["squire"],
@@ -361,9 +367,27 @@
     "from": "orderlyweb"
   },
   {
+    "package": "param6",
+    "url": "https://github.com/xoopR/param6",
+    "via": ["spimalot", "distr6"],
+    "from": "spimalot"
+  },
+  {
     "package": "rrq",
     "url": "https://github.com/mrc-ide/rrq",
     "via": ["spimalot"],
+    "from": "spimalot"
+  },
+  {
+    "package": "set6",
+    "url": "https://github.com/xoopR/set6",
+    "via": ["spimalot", "distr6"],
+    "from": "spimalot"
+  },
+  {
+    "package": "set6",
+    "url": "https://github.com/xoopR/set6",
+    "via": ["spimalot", "distr6", "param6"],
     "from": "spimalot"
   },
   {
