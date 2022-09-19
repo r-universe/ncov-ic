@@ -29,7 +29,7 @@
   },
   {
     "package": "dde",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "squire"
