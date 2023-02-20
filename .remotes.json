@@ -51,12 +51,6 @@
   {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
-    "via": ["odin.dust", "mode"],
-    "from": "odin.dust"
-  },
-  {
-    "package": "dust",
-    "url": "https://github.com/mrc-ide/dust",
     "via": ["sircovid"],
     "from": "sircovid"
   },
@@ -203,12 +197,6 @@
     "url": "https://github.com/mrc-ide/mode",
     "via": ["mcstate", "odin.dust"],
     "from": "mcstate"
-  },
-  {
-    "package": "mode",
-    "url": "https://github.com/mrc-ide/mode",
-    "via": ["odin.dust"],
-    "from": "odin.dust"
   },
   {
     "package": "mode",
