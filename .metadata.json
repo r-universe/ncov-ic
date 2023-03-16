@@ -1,11 +1,9 @@
 [
   {
-    "package": "orderly",
-    "oncran": true
+    "package": "orderly"
   },
   {
-    "package": "vaultr",
-    "oncran": true
+    "package": "vaultr"
   },
   {
     "package": "orderlyweb"
@@ -17,19 +15,16 @@
     "package": "orderly.sharepoint"
   },
   {
-    "package": "projections",
-    "oncran": true
+    "package": "projections"
   },
   {
-    "package": "EpiEstim",
-    "oncran": true
+    "package": "EpiEstim"
   },
   {
     "package": "sircovid"
   },
   {
-    "package": "dde",
-    "oncran": true
+    "package": "dde"
   },
   {
     "package": "squire"
@@ -38,8 +33,7 @@
     "package": "odin.js"
   },
   {
-    "package": "odin",
-    "oncran": true
+    "package": "odin"
   },
   {
     "package": "spud"
