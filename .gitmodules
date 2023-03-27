@@ -161,11 +161,6 @@
 	url = https://github.com/ropensci/jsonvalidate
 	shallow = true
 	registered = false
-[submodule "mode"]
-	path = mode
-	url = https://github.com/mrc-ide/mode
-	shallow = true
-	registered = false
 [submodule "param6"]
 	path = param6
 	url = https://github.com/xoopR/param6
