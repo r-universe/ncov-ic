@@ -33,12 +33,6 @@
   {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
-    "via": ["mcstate", "odin.dust"],
-    "from": "mcstate"
-  },
-  {
-    "package": "dust",
-    "url": "https://github.com/mrc-ide/dust",
     "via": ["odin.dust"],
     "from": "odin.dust"
   },
