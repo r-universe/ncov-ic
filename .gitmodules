@@ -2,17 +2,74 @@
 	path = .registry
 	url = https://github.com/ncov-ic/universe
 	branch = HEAD
+[submodule "EpiEstim"]
+	path = EpiEstim
+	url = https://github.com/mrc-ide/EpiEstim
+	branch = release
+[submodule "coarseDataTools"]
+	path = coarseDataTools
+	url = https://github.com/nickreich/coarseDataTools
+	branch = hackout3
+	registered = false
+[submodule "dde"]
+	path = dde
+	url = https://github.com/mrc-ide/dde
+	branch = master
+[submodule "distr6"]
+	path = distr6
+	url = https://github.com/alan-turing-institute/distr6
+	registered = false
+[submodule "drjacoby"]
+	path = drjacoby
+	url = https://github.com/mrc-ide/drjacoby
+	branch = master
+[submodule "dust"]
+	path = dust
+	url = https://github.com/mrc-ide/dust
+	branch = master
+[submodule "eigen1"]
+	path = eigen1
+	url = https://github.com/mrc-ide/eigen1
+	registered = false
+[submodule "epidemia"]
+	path = epidemia
+	url = https://github.com/ImperialCollegeLondon/epidemia
+	branch = 6e5c800
+[submodule "fstorr"]
+	path = fstorr
+	url = https://github.com/reside-ic/fstorr
+	branch = master
+[submodule "hermione"]
+	path = hermione
+	url = https://github.com/mrc-ide/hermione
+	branch = master
+[submodule "incidence"]
+	path = incidence
+	url = https://github.com/reconhub/incidence
+	registered = false
+[submodule "jsonvalidate"]
+	path = jsonvalidate
+	url = https://github.com/ropensci/jsonvalidate
+	registered = false
+[submodule "mcstate"]
+	path = mcstate
+	url = https://github.com/mrc-ide/mcstate
+	branch = master
+[submodule "odin"]
+	path = odin
+	url = https://github.com/mrc-ide/odin
+	branch = master
+[submodule "odin.dust"]
+	path = odin.dust
+	url = https://github.com/mrc-ide/odin.dust
+	branch = master
+[submodule "odin.js"]
+	path = odin.js
+	url = https://github.com/mrc-ide/odin.js
+	branch = master
 [submodule "orderly"]
 	path = orderly
 	url = https://github.com/vimc/orderly
-	branch = master
-[submodule "vaultr"]
-	path = vaultr
-	url = https://github.com/vimc/vaultr
-	branch = master
-[submodule "orderlyweb"]
-	path = orderlyweb
-	url = https://github.com/vimc/orderlyweb
 	branch = master
 [submodule "orderly.rstudio"]
 	path = orderly.rstudio
@@ -22,99 +79,22 @@
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint
 	branch = master
-[submodule "projections"]
-	path = projections
-	url = https://github.com/reconhub/projections
-	branch = release
-[submodule "EpiEstim"]
-	path = EpiEstim
-	url = https://github.com/mrc-ide/EpiEstim
-	branch = release
-[submodule "sircovid"]
-	path = sircovid
-	url = https://github.com/mrc-ide/sircovid
+[submodule "orderlyweb"]
+	path = orderlyweb
+	url = https://github.com/vimc/orderlyweb
 	branch = master
-[submodule "dde"]
-	path = dde
-	url = https://github.com/mrc-ide/dde
-	branch = master
-[submodule "squire"]
-	path = squire
-	url = https://github.com/mrc-ide/squire
-	branch = master
-[submodule "odin.js"]
-	path = odin.js
-	url = https://github.com/mrc-ide/odin.js
-	branch = master
-[submodule "odin"]
-	path = odin
-	url = https://github.com/mrc-ide/odin
-	branch = master
-[submodule "spud"]
-	path = spud
-	url = https://github.com/reside-ic/spud
-	branch = master
-[submodule "fstorr"]
-	path = fstorr
-	url = https://github.com/reside-ic/fstorr
-	branch = master
-[submodule "hermione"]
-	path = hermione
-	url = https://github.com/mrc-ide/hermione
-	branch = master
-[submodule "epidemia"]
-	path = epidemia
-	url = https://github.com/ImperialCollegeLondon/epidemia
-	branch = 6e5c800
-[submodule "dust"]
-	path = dust
-	url = https://github.com/mrc-ide/dust
-	branch = master
-[submodule "odin.dust"]
-	path = odin.dust
-	url = https://github.com/mrc-ide/odin.dust
-	branch = master
-[submodule "mcstate"]
-	path = mcstate
-	url = https://github.com/mrc-ide/mcstate
-	branch = master
-[submodule "spimalot"]
-	path = spimalot
-	url = https://github.com/mrc-ide/spimalot
-	branch = main
-[submodule "pika"]
-	path = pika
-	url = https://github.com/mrc-ide/pika
-	branch = master
-[submodule "drjacoby"]
-	path = drjacoby
-	url = https://github.com/mrc-ide/drjacoby
-	branch = master
-[submodule "coarseDataTools"]
-	path = coarseDataTools
-	url = https://github.com/nickreich/coarseDataTools
-	branch = hackout3
-	registered = false
-[submodule "distr6"]
-	path = distr6
-	url = https://github.com/alan-turing-institute/distr6
-	registered = false
-[submodule "eigen1"]
-	path = eigen1
-	url = https://github.com/mrc-ide/eigen1
-	registered = false
-[submodule "incidence"]
-	path = incidence
-	url = https://github.com/reconhub/incidence
-	registered = false
-[submodule "jsonvalidate"]
-	path = jsonvalidate
-	url = https://github.com/ropensci/jsonvalidate
-	registered = false
 [submodule "param6"]
 	path = param6
 	url = https://github.com/xoopR/param6
 	registered = false
+[submodule "pika"]
+	path = pika
+	url = https://github.com/mrc-ide/pika
+	branch = master
+[submodule "projections"]
+	path = projections
+	url = https://github.com/reconhub/projections
+	branch = release
 [submodule "rrq"]
 	path = rrq
 	url = https://github.com/mrc-ide/rrq
@@ -123,3 +103,23 @@
 	path = set6
 	url = https://github.com/xoopR/set6
 	registered = false
+[submodule "sircovid"]
+	path = sircovid
+	url = https://github.com/mrc-ide/sircovid
+	branch = master
+[submodule "spimalot"]
+	path = spimalot
+	url = https://github.com/mrc-ide/spimalot
+	branch = main
+[submodule "spud"]
+	path = spud
+	url = https://github.com/reside-ic/spud
+	branch = master
+[submodule "squire"]
+	path = squire
+	url = https://github.com/mrc-ide/squire
+	branch = master
+[submodule "vaultr"]
+	path = vaultr
+	url = https://github.com/vimc/vaultr
+	branch = master
