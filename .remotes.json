@@ -45,24 +45,6 @@
   {
     "package": "dust",
     "url": "https://github.com/mrc-ide/dust",
-    "via": ["sircovid", "mcstate"],
-    "from": "sircovid"
-  },
-  {
-    "package": "dust",
-    "url": "https://github.com/mrc-ide/dust",
-    "via": ["sircovid", "mcstate", "odin.dust"],
-    "from": "sircovid"
-  },
-  {
-    "package": "dust",
-    "url": "https://github.com/mrc-ide/dust",
-    "via": ["sircovid", "odin.dust"],
-    "from": "sircovid"
-  },
-  {
-    "package": "dust",
-    "url": "https://github.com/mrc-ide/dust",
     "via": ["spimalot"],
     "from": "spimalot"
   },
@@ -177,18 +159,6 @@
   {
     "package": "odin",
     "url": "https://github.com/mrc-ide/odin",
-    "via": ["sircovid"],
-    "from": "sircovid"
-  },
-  {
-    "package": "odin",
-    "url": "https://github.com/mrc-ide/odin",
-    "via": ["sircovid", "odin.dust"],
-    "from": "sircovid"
-  },
-  {
-    "package": "odin",
-    "url": "https://github.com/mrc-ide/odin",
     "via": ["spimalot", "mcstate", "odin.dust"],
     "from": "spimalot"
   },
@@ -232,12 +202,6 @@
     "package": "odin.dust",
     "url": "https://github.com/mrc-ide/odin.dust",
     "via": ["sircovid", "mcstate"],
-    "from": "sircovid"
-  },
-  {
-    "package": "odin.dust",
-    "url": "https://github.com/mrc-ide/odin.dust",
-    "via": ["sircovid"],
     "from": "sircovid"
   },
   {
