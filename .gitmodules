@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ncov-ic/universe
+	url = https://github.com/ncov-ic/ncov-ic.r-universe.dev
 	branch = HEAD
 [submodule "EpiEstim"]
 	path = EpiEstim
