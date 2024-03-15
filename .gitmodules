@@ -51,6 +51,10 @@
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
 	registered = false
+[submodule "logwatch"]
+	path = logwatch
+	url = https://github.com/reside-ic/logwatch
+	registered = false
 [submodule "mcstate"]
 	path = mcstate
 	url = https://github.com/mrc-ide/mcstate

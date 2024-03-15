@@ -79,6 +79,12 @@
     "from": "squire"
   },
   {
+    "package": "logwatch",
+    "url": "https://github.com/reside-ic/logwatch",
+    "via": ["spimalot", "rrq"],
+    "from": "spimalot"
+  },
+  {
     "package": "mcstate",
     "url": "https://github.com/mrc-ide/mcstate",
     "via": ["sircovid"],
