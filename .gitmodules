@@ -83,6 +83,10 @@
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint
 	branch = master
+[submodule "orderly1"]
+	path = orderly1
+	url = https://github.com/vimc/orderly1
+	registered = false
 [submodule "orderlyweb"]
 	path = orderlyweb
 	url = https://github.com/vimc/orderlyweb
