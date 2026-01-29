@@ -6,19 +6,10 @@
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
 	branch = release
-[submodule "coarseDataTools"]
-	path = coarseDataTools
-	url = https://github.com/nickreich/coarseDataTools
-	branch = hackout3
-	registered = false
 [submodule "dde"]
 	path = dde
 	url = https://github.com/mrc-ide/dde
 	branch = master
-[submodule "distr6"]
-	path = distr6
-	url = https://github.com/alan-turing-institute/distr6
-	registered = false
 [submodule "drjacoby"]
 	path = drjacoby
 	url = https://github.com/mrc-ide/drjacoby
@@ -27,10 +18,6 @@
 	path = dust
 	url = https://github.com/mrc-ide/dust
 	branch = master
-[submodule "eigen1"]
-	path = eigen1
-	url = https://github.com/mrc-ide/eigen1
-	registered = false
 [submodule "epidemia"]
 	path = epidemia
 	url = https://github.com/ImperialCollegeLondon/epidemia
@@ -43,18 +30,6 @@
 	path = hermione
 	url = https://github.com/mrc-ide/hermione
 	branch = master
-[submodule "incidence"]
-	path = incidence
-	url = https://github.com/reconhub/incidence
-	registered = false
-[submodule "jsonvalidate"]
-	path = jsonvalidate
-	url = https://github.com/ropensci/jsonvalidate
-	registered = false
-[submodule "logwatch"]
-	path = logwatch
-	url = https://github.com/reside-ic/logwatch
-	registered = false
 [submodule "mcstate"]
 	path = mcstate
 	url = https://github.com/mrc-ide/mcstate
@@ -83,18 +58,10 @@
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint
 	branch = master
-[submodule "orderly1"]
-	path = orderly1
-	url = https://github.com/vimc/orderly1
-	registered = false
 [submodule "orderlyweb"]
 	path = orderlyweb
 	url = https://github.com/vimc/orderlyweb
 	branch = master
-[submodule "param6"]
-	path = param6
-	url = https://github.com/xoopR/param6
-	registered = false
 [submodule "pika"]
 	path = pika
 	url = https://github.com/mrc-ide/pika
@@ -103,14 +70,6 @@
 	path = projections
 	url = https://github.com/reconhub/projections
 	branch = release
-[submodule "rrq"]
-	path = rrq
-	url = https://github.com/mrc-ide/rrq
-	registered = false
-[submodule "set6"]
-	path = set6
-	url = https://github.com/xoopR/set6
-	registered = false
 [submodule "sircovid"]
 	path = sircovid
 	url = https://github.com/mrc-ide/sircovid
